@@ -11,3 +11,6 @@ The analysis is based on the **Bike Sales in Europe dataset** from Kaggle: [http
 1.  **Download** the `Ankur_Excel_Dashboard_Project.xlsx` file from this repository.
 2.  **Open** the file in Microsoft Excel.
 3.  **Explore** the interactive dashboard to uncover sales trends and customer insights.
+
+## Gif Preview:
+![Preview of my dashboard:](Excel_Dashboard_Project.gif)
